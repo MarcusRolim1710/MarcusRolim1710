@@ -1,7 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:2e66a6&amp;height=120&amp;section=header&amp;text=Marcus%20Rolim&amp;fontSize=42&amp;fontColor=2e66a6&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Analista%20de%20Redes%20e%20Geek%20%7C%20Fortaleza-CE%20%7C%20UP-ISP&amp;descAlignY=55&amp;descAlign=50" />
-<!--# Marcus Rolim — Analista de Redes & Geek -->
+
 <div align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1000&color=2e66a6&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Redes+e+Geek;Desvendando+a+matrix+da+internet;Movido+a+tecnologia%2C+TI+e+motos;Fortaleza-CE+%F0%9F%93%8D+%7C+UP-ISP+%F0%9F%8F%A2;Sempre+em+busca+de+conhecimento+e+aventuras)](https://git.io/typing-svg)
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=MarcusRolim1710&color=2e66a6&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/MarcusRolim1710?label=Followers&style=flat-square&color=2e66a6&logo=github" alt="Followers" />
