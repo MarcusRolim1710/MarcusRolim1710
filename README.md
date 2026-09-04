@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2e66a6&height=120&section=header&text=Marcus%20Rolim&fontSize=42&fontColor=2e66a6&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Redes%20e%20Geek%20%7C%20Fortaleza-CE%20%7C%20UP-ISP&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:2e66a6&amp;height=120&amp;section=header&amp;text=Marcus%20Rolim&amp;fontSize=42&amp;fontColor=2e66a6&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Analista%20de%20Redes%20e%20Geek%20%7C%20Fortaleza-CE%20%7C%20UP-ISP&amp;descAlignY=55&amp;descAlign=50" />
 <!--# Marcus Rolim — Analista de Redes & Geek -->
 <div align="center">
 
@@ -170,4 +170,4 @@ $ echo $COMPANY
 ```
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e66a6,100:0D1117&height=120&section=footer&text=&fontSize=0&fontColor=2e66a6&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2e66a6,100:0D1117&amp;height=120&amp;section=footer" />
