@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2e66a6&height=120&section=header&text=Marcus%20Rolim&fontSize=42&fontColor=2e66a6&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Redes%20e%20Geek%20%7C%20Fortaleza-CE%20%7C%20UP-ISP&descAlignY=55&descAlign=50" />
-
 <!--# Marcus Rolim — Analista de Redes & Geek -->
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1000&color=2e66a6&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Redes+e+Geek;Desvendando+a+matrix+da+internet;Movido+a+tecnologia%2C+TI+e+motos;Fortaleza-CE+%F0%9F%93%8D+%7C+UP-ISP+%F0%9F%8F%A2;Sempre+em+busca+de+conhecimento+e+aventuras)](https://git.io/typing-svg)
@@ -37,9 +35,6 @@ $ echo $LOCATION
 $ echo $COMPANY
 > UP-ISP
 ```
-
----
-
 <!--
 ### 📚 Estudando no momento
 
@@ -94,7 +89,6 @@ $ echo $COMPANY
 
 ---
 
-<div align="center">
 ### 📚 Estudando no momento
 
 <div align="center">
@@ -102,7 +96,7 @@ $ echo $COMPANY
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=18&pause=1200&color=2e66a6&center=true&vCenter=true&width=600&height=30&lines=%F0%9F%8E%AE+Unity+%7C+Game+Developer;%F0%9F%92%BB+C%23+e+Unity+Engine;%F0%9F%9A%80+Desenvolvimento+de+Jogos)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-<br>
+<br/>
 <!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> -->
 <img src="https://img.shields.io/badge/Game_Developer-2e66a6?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Game Developer" />
 
@@ -168,13 +162,12 @@ $ echo $COMPANY
   <img src="https://img.shields.io/badge/GitHub-MarcusRolim1710-0D1117?style=for-the-badge&logo=github&logoColor=2e66a6" alt="GitHub" />
 </a>
 
-<br/><br/>
+<br/>
 
 ```js
 // Fortaleza-CE • UP-ISP • Redes + Código + Estrada 🏍️
 // "Desvendando a matrix da internet"
 ```
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e66a6,100:0D1117&height=120&section=footer&text=&fontSize=0&fontColor=2e66a6&animation=fadeIn" />
