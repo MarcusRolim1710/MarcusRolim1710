@@ -114,11 +114,11 @@ $ echo $COMPANY
 
 ### 📌 Projetos em destaque
 
-<a href="[https://github.com/MarcusRolim1710/meu-proxy-router](https://github.com/MarcusRolim1710/meu-proxy-router)">
-  <img src="[https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=meu-proxy-router&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=meu-proxy-router&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9)" alt="meu-proxy-router" />
+<a href="https://github.com/MarcusRolim1710/meu-proxy-router">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=meu-proxy-router&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9" alt="meu-proxy-router" />
 </a>
-<a href="[https://github.com/MarcusRolim1710/hora-de-lembrar](https://github.com/MarcusRolim1710/hora-de-lembrar)">
-  <img src="[https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9)" alt="hora-de-lembrar" />
+<a href="https://github.com/MarcusRolim1710/hora-de-lembrar">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9" alt="hora-de-lembrar" />
 </a>
 
 </div>
@@ -129,14 +129,14 @@ $ echo $COMPANY
 
 ### 📫 Onde me encontrar
 
-<a href="[https://www.instagram.com/marcus.v.rolim/](https://www.instagram.com/marcus.v.rolim/)">
-  <img src="[https://img.shields.io/badge/Instagram-marcus.v.rolim-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/Instagram-marcus.v.rolim-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram" />
+<a href="https://www.instagram.com/marcus.v.rolim/">
+  <img src="https://img.shields.io/badge/Instagram-marcus.v.rolim-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="[https://github.com/MarcusRolim1710](https://github.com/MarcusRolim1710)">
-  <img src="[https://img.shields.io/badge/GitHub-MarcusRolim1710-0D1117?style=for-the-badge&logo=github&logoColor=2e66a6](https://img.shields.io/badge/GitHub-MarcusRolim1710-0D1117?style=for-the-badge&logo=github&logoColor=2e66a6)" alt="GitHub" />
+<a href="https://github.com/MarcusRolim1710">
+  <img src="https://img.shields.io/badge/GitHub-MarcusRolim1710-0D1117?style=for-the-badge&logo=github&logoColor=2e66a6" alt="GitHub" />
 </a>
 
-<br/><br/>
+<br/>
 
 ```js
 // Fortaleza-CE • UP-ISP • Redes + Código + Estrada 🏍️
