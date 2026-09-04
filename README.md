@@ -1,15 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=Marcus%20Rolim&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Redes%20%26%20Geek%20%7C%20Fortaleza-CE%20%7C%20UP-ISP&descAlignY=55&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2e66a6&height=120&section=header&text=Marcus%20Rolim&fontSize=42&fontColor=2e66a6&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Redes%20%26%20Geek%20%7C%20Fortaleza-CE%20%7C%20UP-ISP&descAlignY=55&descAlign=50" />
 
 # Marcus Rolim — Analista de Redes & Geek
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Redes+%26+Geek;Desvendando+a+matrix+da+internet;Movido+a+tecnologia%2C+TI+e+motos;Fortaleza-CE+%F0%9F%93%8D+%7C+UP-ISP+%F0%9F%8F%A2;Sempre+em+busca+de+conhecimento+e+aventuras)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1000&color=2e66a6&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Redes+%26+Geek;Desvendando+a+matrix+da+internet;Movido+a+tecnologia%2C+TI+e+motos;Fortaleza-CE+%F0%9F%93%8D+%7C+UP-ISP+%F0%9F%8F%A2;Sempre+em+busca+de+conhecimento+e+aventuras)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=MarcusRolim1710&color=00FF41&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/MarcusRolim1710?label=Followers&style=flat-square&color=00FF41&logo=github" alt="Followers" />
-<img src="https://img.shields.io/badge/Fortaleza--CE-0D1117?style=flat-square&logo=googlemaps&logoColor=00FF41&labelColor=0D1117&color=00FF41" alt="Location" />
-<img src="https://img.shields.io/badge/UP--ISP-00FF41?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMDAwIj48cGF0aCBkPSJNMTIgMkwyIDdsMTAgNSAxMC01LTEwLTV6bTAgN2wtMTAgNUwxMiAyMmw5LTVMNyAxMXoiLz48L3N2Zz4=&logoColor=white&labelColor=0D1117" alt="UP-ISP" />
+<img src="https://komarev.com/ghpvc/?username=MarcusRolim1710&color=2e66a6&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/MarcusRolim1710?label=Followers&style=flat-square&color=2e66a6&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/Fortaleza--CE-0D1117?style=flat-square&logo=googlemaps&logoColor=2e66a6&labelColor=0D1117&color=2e66a6" alt="Location" />
+<img src="https://img.shields.io/badge/UP--ISP-2e66a6?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjMmU2NmE2Ij48cGF0aCBkPSJNMTIgMkwyIDdsMTAgNSAxMC01LTEwLTV6bTAgN2wtMTAgNUwxMiAyMmw5LTVMNyAxMXoiLz48L3N2Zz4=&logoColor=white&labelColor=0D1117" alt="UP-ISP" />
 
 </div>
 
@@ -40,21 +40,35 @@ $ echo $COMPANY
 
 ---
 
+### 📚 Estudando no momento
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=500&size=18&pause=1200&color=2e66a6&center=true&vCenter=true&width=600&height=30&lines=%F0%9F%8E%AE+Unity+%7C+Game+Developer;%F0%9F%92%BB+C%23+%26+Unity+Engine;%F0%9F%9A%80+Desenvolvimento+de+Jogos)](https://git.io/typing-svg)
+
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Game_Developer-2e66a6?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Game Developer" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### 📊 GitHub Stats
 
 <a href="https://github.com/MarcusRolim1710">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcusRolim1710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcusRolim1710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/MarcusRolim1710">
-  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcusRolim1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=8" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcusRolim1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&text_color=C9D1D9&border_radius=8" alt="Top Languages" />
 </a>
 
 <br/>
 
 <a href="https://github.com/MarcusRolim1710">
-  <img src="https://streak-stats.demolab.com?user=MarcusRolim1710&theme=dark&background=0D1117&border=0D1117&stroke=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=C9D1D9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=MarcusRolim1710&theme=dark&background=0D1117&border=0D1117&stroke=0D1117&ring=2e66a6&fire=2e66a6&currStreakNum=2e66a6&sideNums=2e66a6&currStreakLabel=2e66a6&sideLabels=2e66a6&dates=C9D1D9" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -82,7 +96,12 @@ $ echo $COMPANY
 ### 🧰 Tech Stack
 
 #### 💻 Desenvolvimento
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,supabase,vercel,git,linux,bash,docker,nginx,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,supabase,vercel,git,linux,bash,docker,nginx,vscode,cs,unity" />
+
+#### 🎮 Game Dev — Estudando
+<img src="https://skillicons.dev/icons?i=unity,cs" />
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 
 #### 🌐 Redes & Infra
 <br/>
@@ -103,10 +122,10 @@ $ echo $COMPANY
 ### 📌 Projetos em destaque
 
 <a href="https://github.com/MarcusRolim1710/meu-proxy-router">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=meu-proxy-router&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="meu-proxy-router" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=meu-proxy-router&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9" alt="meu-proxy-router" />
 </a>
 <a href="https://github.com/MarcusRolim1710/hora-de-lembrar">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="hora-de-lembrar" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9" alt="hora-de-lembrar" />
 </a>
 
 </div>
@@ -121,7 +140,7 @@ $ echo $COMPANY
   <img src="https://img.shields.io/badge/Instagram-marcus.v.rolim-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://github.com/MarcusRolim1710">
-  <img src="https://img.shields.io/badge/GitHub-MarcusRolim1710-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-MarcusRolim1710-0D1117?style=for-the-badge&logo=github&logoColor=2e66a6" alt="GitHub" />
 </a>
 
 <br/><br/>
@@ -133,4 +152,4 @@ $ echo $COMPANY
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=120&section=footer&text=&fontSize=0&fontColor=00FF41&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2e66a6,100:0D1117&height=120&section=footer&text=&fontSize=0&fontColor=2e66a6&animation=fadeIn" />
