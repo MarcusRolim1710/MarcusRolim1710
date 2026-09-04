@@ -1,5 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=180&section=header&text=Marcus%20Rolim&fontSize=42&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Redes%20%26%20Geek%20%7C%20Fortaleza-CE%20%7C%20UP-ISP&descAlignY=55&descAlign=50" />
 
+# Marcus Rolim — Analista de Redes & Geek
+
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Redes+%26+Geek;Desvendando+a+matrix+da+internet;Movido+a+tecnologia%2C+TI+e+motos;Fortaleza-CE+%F0%9F%93%8D+%7C+UP-ISP+%F0%9F%8F%A2;Sempre+em+busca+de+conhecimento+e+aventuras)](https://git.io/typing-svg)
@@ -43,22 +45,16 @@ $ echo $COMPANY
 ### 📊 GitHub Stats
 
 <a href="https://github.com/MarcusRolim1710">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MarcusRolim1710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MarcusRolim1710&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&border_radius=8" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/MarcusRolim1710">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusRolim1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=8" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarcusRolim1710&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_radius=8" alt="Top Languages" />
 </a>
 
 <br/>
 
 <a href="https://github.com/MarcusRolim1710">
   <img src="https://streak-stats.demolab.com?user=MarcusRolim1710&theme=dark&background=0D1117&border=0D1117&stroke=0D1117&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=C9D1D9" alt="GitHub Streak" />
-</a>
-
-<br/>
-
-<a href="https://github.com/MarcusRolim1710">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MarcusRolim1710&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true" alt="Activity Graph" />
 </a>
 
 </div>
@@ -107,10 +103,10 @@ $ echo $COMPANY
 ### 📌 Projetos em destaque
 
 <a href="https://github.com/MarcusRolim1710/meu-proxy-router">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusRolim1710&repo=meu-proxy-router&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="meu-proxy-router" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=meu-proxy-router&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="meu-proxy-router" />
 </a>
 <a href="https://github.com/MarcusRolim1710/hora-de-lembrar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="hora-de-lembrar" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9" alt="hora-de-lembrar" />
 </a>
 
 </div>
