@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,100:2e66a6&amp;height=120&amp;section=header&amp;text=Marcus%20Rolim&amp;fontSize=42&amp;fontColor=2e66a6&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Analista%20de%20Redes%20e%20Geek%20%7C%20Fortaleza-CE%20%7C%20UP-ISP&amp;descAlignY=55&amp;descAlign=50" />
 <!--# Marcus Rolim — Analista de Redes & Geek -->
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=22&pause=1000&color=2e66a6&center=true&vCenter=true&width=700&height=50&lines=Analista+de+Redes+e+Geek;Desvendando+a+matrix+da+internet;Movido+a+tecnologia%2C+TI+e+motos;Fortaleza-CE+%F0%9F%93%8D+%7C+UP-ISP+%F0%9F%8F%A2;Sempre+em+busca+de+conhecimento+e+aventuras)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=MarcusRolim1710&color=2e66a6&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
@@ -68,8 +67,6 @@ $ echo $COMPANY
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcusRolim1710/MarcusRolim1710/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<!-- _A cobra come as contribuições — atualizada automaticamente via GitHub Actions a cada 6h_-->
-
 </div>
 
 ---
@@ -86,7 +83,9 @@ $ echo $COMPANY
 <img src="https://img.shields.io/badge/Game_Developer-2e66a6?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Game Developer" />
 
 </div>
+
 ---
+
 <div align="center">
 
 ### 🧰 Tech Stack
@@ -95,12 +94,7 @@ $ echo $COMPANY
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,javascript,nodejs,supabase,vercel" />
 
 #### 🎮 Game Dev — Estudando
-<img src="https://skillicons.dev/icons?i=unity,cs,blender" />
-
-<!--
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" /> 
--->
+<img src="https://skillicons.dev/icons?i=unity,blender" />
 
 #### 🌐 Redes & Infra
 <br/>
@@ -108,12 +102,6 @@ $ echo $COMPANY
 <img src="https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white" alt="Huawei" />
 <img src="https://img.shields.io/badge/ZTE-0066B3?style=for-the-badge&logoColor=white" alt="ZTE" />
 <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" />
-<!--
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
--->
 
 </div>
 
@@ -151,4 +139,3 @@ $ echo $COMPANY
 ```
 </div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2e66a6,100:0D1117&amp;height=120&amp;section=footer" />
----
