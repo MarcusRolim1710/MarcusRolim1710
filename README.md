@@ -83,7 +83,7 @@ $ echo $COMPANY
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcusRolim1710/MarcusRolim1710/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-> _A cobra come as contribuições — atualizada automaticamente via GitHub Actions a cada 6h_
+<!-- _A cobra come as contribuições — atualizada automaticamente via GitHub Actions a cada 6h_ -->
 
 </div>
 
