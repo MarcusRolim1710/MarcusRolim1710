@@ -24,9 +24,13 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b output
+          git add .
+          git commit -m "chore: update snake animation"
+          git remote add origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/MarcusRolim1710/MarcusRolim1710.git
+          git push -f origin output
