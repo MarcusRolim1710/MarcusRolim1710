@@ -120,6 +120,9 @@ $ echo $COMPANY
 <a href="https://github.com/MarcusRolim1710/hora-de-lembrar">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9" alt="hora-de-lembrar" />
 </a>
+<a href="https://github.com/MarcusRolim1710/heroi-do-peering">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=MarcusRolim1710&repo=hora-de-lembrar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e66a6&icon_color=2e66a6&text_color=C9D1D9" alt="heroi-do-peering" />
+</a>
 
 </div>
 
