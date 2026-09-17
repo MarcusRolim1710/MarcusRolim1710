@@ -72,6 +72,17 @@ $ echo $COMPANY
 
 </div>
 
+<div align="center">
+
+### 🏙️ 3D Isométrico — contribuições
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D isométrico night rainbow" />
+
+<!-- Outras opções geradas: profile-green-animate.svg | profile-night-view.svg | profile-gitblock.svg | profile-season-animate.svg -->
+<!-- Troque o arquivo acima para variar o estilo. Todos ficam em profile-3d-contrib/ -->
+
+</div>
+
 ---
 
 ### 📚 Estudando no momento
